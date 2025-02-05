@@ -1,8 +1,4 @@
-Here’s a **README file** tailored for your GitHub project, **"AI Assistant Alexa using Python"**. This README provides an overview of your project, instructions for setup, and other relevant details.
 
----
-
-```markdown
 # AI Assistant Alexa using Python
 
 ## Project Overview
